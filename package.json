@@ -1,6 +1,6 @@
 {
   "name": "nestjs-tlgram",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "GramJS for Nest. Easy telegram integration to your services.",
   "author": "Markin Maxin",
   "license": "MIT",
